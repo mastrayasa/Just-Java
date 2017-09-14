@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="btnLabel">Beli</string>
+    <string name="chocolate">Cokelat</string>
+    <string name="name_label">Nama</string>
+    <string name="order_summary">Ringkasan Pembelian</string>
+    <string name="topping">Lainnya</string>
+    <string name="whipeed_cream">Krim Kocok</string>
+</resources>
